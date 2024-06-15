@@ -1,0 +1,21 @@
+{
+	"pluginmetadataversion" : 2,
+	"name": "Gameboy Advance Architecture",
+	"type": ["architecture", "binaryview"],
+	"api": ["python3"],
+	"description": "A loader and diassembler for Game Boy Advance ROMs.",
+	"longdescription": "This plugin loads Game Boy Advance ROMs",
+	"license": {
+		"name": "MIT",
+		"text": ""
+	},
+	"platforms" : ["Darwin", "Linux", "Windows"],
+	"installinstructions" : {
+		"Darwin" : "",
+		"Linux" : "",
+		"Windows" : ""
+	},
+	"version": "1.0",
+	"author": "",
+	"minimumbinaryninjaversion": 4526
+}
